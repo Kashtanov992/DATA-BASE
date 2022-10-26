@@ -13,3 +13,7 @@
 список столбцов таблицы через запятую; 
 ключевое слово FROM ; 
 имя таблицы. помощью SQL запросов можно осуществлять вычисления по каждой строке таблицы с помощью вычисляемого столбца. Для него в списке полей после оператора SELECT указывается выражение и задается имя.
+![image](https://user-images.githubusercontent.com/112687500/197984363-e38de0d4-69f7-4f1d-99f3-a9696426a3ac.png)
+![image](https://user-images.githubusercontent.com/112687500/197984400-751aa4b4-0bb7-4bee-9275-bff79ea67c9b.png)
+![image](https://user-images.githubusercontent.com/112687500/197985058-5b8cec34-04e1-4fff-819d-b2df92042c96.png)
+
